@@ -1,0 +1,36 @@
+_repo: Wildfire_2066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Horse hunter Lin Sloan never wanted anything more than the wild stallion
+  he called Wildfire. Lucy Bostil found the horse and the unconscious man who had
+  roped him. She saved both their lives and took Sloan's heart in the process. Now
+  another man wants Lucy and the horse and will stop at nothing short of killing to
+  get them.
+gutenberg_bookshelf:
+- Western
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wild horses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Utah -- Fiction'
+- GITenberg
+title: Wildfire
+url: http://www.gutenberg.org/ebooks/2066
