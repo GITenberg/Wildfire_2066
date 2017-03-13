@@ -1,5 +1,8 @@
 _repo: Wildfire_2066
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -16,6 +19,8 @@ description: Horse hunter Lin Sloan never wanted anything more than the wild sta
   roped him. She saved both their lives and took Sloan's heart in the process. Now
   another man wants Lucy and the horse and will stop at nothing short of killing to
   get them.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2066#Wildfire
 gutenberg_bookshelf:
 - Western
 - Bestsellers, American, 1895-1923
